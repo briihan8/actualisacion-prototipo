@@ -1,0 +1,13 @@
+header{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.bordes{
+    border: 1px solid rgb(17, 17, 17);
+    border-radius: 5px;
+       
+}
+.color {
+    background-color: blue;
+}

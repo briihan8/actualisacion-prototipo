@@ -1,0 +1,20 @@
+head{
+
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.centro{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+.bordes{
+    border: 1px solid rgb(14, 13, 13);
+    border-radius: 5px;
+    border-color: blue
+    ;
+}
